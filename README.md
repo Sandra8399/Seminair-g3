@@ -1,7 +1,7 @@
 
 # RNA-seq Enrichment Analysis
 
-### collaborators : 
+#### collaborators: 
 - Sandra Desatová
 - Zozan Ismail
 
