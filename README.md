@@ -2,8 +2,8 @@
 # RNA-seq Enrichment Analysis
 
 ### collaborators : 
-Sandra Desatová
-Zozan Ismail
+- Sandra Desatová
+- Zozan Ismail
 
 This R package provides a pipeline for analyzing RNA-seq count data, including filtering, differential expression analysis, and enrichment analysis. The package leverages powerful tools like `edgeR`, `DESeq2`, and `clusterProfiler` to streamline the analysis workflow.
 
