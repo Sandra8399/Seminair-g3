@@ -1,6 +1,3 @@
----
-title: "RNA-seq Enrichment Analysis R Package"
----
 
 # RNA-seq Enrichment Analysis
 
