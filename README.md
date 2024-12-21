@@ -27,7 +27,7 @@ To use this package, you need to clone the repository and install the dependenci
 
 ```r
 # Clone the repository
-git clone https://github.com/your-repo-name.git
+git clone git@github.com:Sandra8399/Seminair-g3.git
 
 # Install required R packages
 install.packages(c("edgeR", "DESeq2", "clusterProfiler", "org.Hs.eg.db", "openxlsx", "enrichplot", "ggplot2"))
